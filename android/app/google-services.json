@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "320230842305",
+    "project_id": "offerapplication-caeff",
+    "storage_bucket": "offerapplication-caeff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320230842305:android:4151b37868f5876c97d940",
+        "android_client_info": {
+          "package_name": "com.offerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320230842305-0cp43hq5cpvp5hip7f85vtqvnvouoi4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offerapplication",
+            "certificate_hash": "29c9e71443cf96d93bfec5b6cee4693ec638adf7"
+          }
+        },
+        {
+          "client_id": "320230842305-n8talg72em24b6etm1jhshi80tt18d12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjMhqziS48OqE_HiaZxslKhOpOthEkrnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320230842305-n8talg72em24b6etm1jhshi80tt18d12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
